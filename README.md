@@ -32,4 +32,4 @@
     <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP">
 </p>
 
-![Snake animation](https://github.com/DiegoAdrianoMendes/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/DiegoAdrianoMendes/DiegoAdrianoMendes/blob/output/github-contribution-grid-snake.svg)
