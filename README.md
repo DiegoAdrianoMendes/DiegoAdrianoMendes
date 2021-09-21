@@ -15,7 +15,7 @@
     <a href="https://github.com/DiegoAdrianoMendes"></a>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoAdrianoMendes&show_icons=true&theme=dracula&count_private=true">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoAdrianoMendes&layout=compact&theme=dracula">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DiegoMendes&theme=dracula">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=diegomendes&theme=dracula">
 </div>
 
 ##
